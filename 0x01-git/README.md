@@ -1,11 +1,4 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-	deleted:    bash/alx
-	deleted:    bash/school
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master d6bd801] This is my git in 0x01-git
+ 3 files changed, 11 insertions(+), 5 deletions(-)
+ delete mode 100644 0x01-git/bash/alx
+ delete mode 100644 0x01-git/bash/school
